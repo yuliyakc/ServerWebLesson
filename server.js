@@ -37,7 +37,9 @@ http.createServer(function(request,response){   //функция будет вы
     }
 
 }).listen(8080); // начинает работать сервер, создает сервер, для запуска сервера вызываем метод listen
-console.log("Server has started.");
+console.log("Server1 has started.");
+
+
 
 
 

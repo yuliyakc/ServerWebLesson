@@ -3,12 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="8925a48b-0444-4f9b-8960-3535dac6dd21" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,6 +27,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -45,7 +53,19 @@
       <workItem from="1617806990949" duration="44000" />
       <workItem from="1617884182350" duration="3619000" />
       <workItem from="1619429044672" duration="921000" />
-      <workItem from="1619592666544" duration="603000" />
+      <workItem from="1619592666544" duration="1260000" />
+      <workItem from="1619594630645" duration="1158000" />
+      <workItem from="1620738582490" duration="686000" />
+      <workItem from="1620802163857" duration="1885000" />
+      <workItem from="1632316937850" duration="183000" />
+      <workItem from="1632317122392" duration="692000" />
+      <workItem from="1632380424682" duration="2738000" />
+      <workItem from="1632498246138" duration="13000" />
+      <workItem from="1633600847586" duration="928000" />
+      <workItem from="1634029190830" duration="1495000" />
+      <workItem from="1634113767769" duration="13000" />
+      <workItem from="1634292291149" duration="1451000" />
+      <workItem from="1634482558876" duration="27000" />
     </task>
     <servers />
   </component>
